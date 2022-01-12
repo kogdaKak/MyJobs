@@ -1,0 +1,132 @@
+C:\Users\мвидео\Desktop\Курсач\wpf\Unifersitet\Unifersitet\bin\Debug\Unifersitet.exe.config
+C:\Users\мвидео\Desktop\Курсач\wpf\Unifersitet\Unifersitet\bin\Debug\Unifersitet.exe
+C:\Users\мвидео\Desktop\Курсач\wpf\Unifersitet\Unifersitet\bin\Debug\Unifersitet.pdb
+C:\Users\мвидео\Desktop\Курсач\wpf\Unifersitet\Unifersitet\obj\Debug\MainWindow.g.cs
+C:\Users\мвидео\Desktop\Курсач\wpf\Unifersitet\Unifersitet\obj\Debug\Registation.g.cs
+C:\Users\мвидео\Desktop\Курсач\wpf\Unifersitet\Unifersitet\obj\Debug\StudentMenu.g.cs
+C:\Users\мвидео\Desktop\Курсач\wpf\Unifersitet\Unifersitet\obj\Debug\StudentZan.g.cs
+C:\Users\мвидео\Desktop\Курсач\wpf\Unifersitet\Unifersitet\obj\Debug\App.g.cs
+C:\Users\мвидео\Desktop\Курсач\wpf\Unifersitet\Unifersitet\obj\Debug\Unifersitet_MarkupCompile.cache
+C:\Users\мвидео\Desktop\Курсач\wpf\Unifersitet\Unifersitet\obj\Debug\Unifersitet_MarkupCompile.lref
+C:\Users\мвидео\Desktop\Курсач\wpf\Unifersitet\Unifersitet\obj\Debug\MainWindow.baml
+C:\Users\мвидео\Desktop\Курсач\wpf\Unifersitet\Unifersitet\obj\Debug\Registation.baml
+C:\Users\мвидео\Desktop\Курсач\wpf\Unifersitet\Unifersitet\obj\Debug\StudentMenu.baml
+C:\Users\мвидео\Desktop\Курсач\wpf\Unifersitet\Unifersitet\obj\Debug\StudentZan.baml
+C:\Users\мвидео\Desktop\Курсач\wpf\Unifersitet\Unifersitet\obj\Debug\Unifersitet.g.resources
+C:\Users\мвидео\Desktop\Курсач\wpf\Unifersitet\Unifersitet\obj\Debug\Unifersitet.Properties.Resources.resources
+C:\Users\мвидео\Desktop\Курсач\wpf\Unifersitet\Unifersitet\obj\Debug\Unifersitet.csproj.GenerateResource.cache
+C:\Users\мвидео\Desktop\Курсач\wpf\Unifersitet\Unifersitet\obj\Debug\Unifersitet.exe
+C:\Users\мвидео\Desktop\Курсач\wpf\Unifersitet\Unifersitet\obj\Debug\Unifersitet.pdb
+C:\Users\мвидео\Desktop\Курсач\wpf\Unifersitet\Unifersitet\obj\Debug\Classes.g.cs
+C:\Users\мвидео\Desktop\Курсач\wpf\Unifersitet\Unifersitet\obj\Debug\Classes.baml
+C:\Users\мвидео\Desktop\Курсач\wpf\Unifersitet\Unifersitet\obj\Debug\Groups.g.cs
+C:\Users\мвидео\Desktop\Курсач\wpf\Unifersitet\Unifersitet\obj\Debug\ListPrepod.g.cs
+C:\Users\мвидео\Desktop\Курсач\wpf\Unifersitet\Unifersitet\obj\Debug\PrepodMenu.g.cs
+C:\Users\мвидео\Desktop\Курсач\wpf\Unifersitet\Unifersitet\obj\Debug\Groups.baml
+C:\Users\мвидео\Desktop\Курсач\wpf\Unifersitet\Unifersitet\obj\Debug\ListPrepod.baml
+C:\Users\мвидео\Desktop\Курсач\wpf\Unifersitet\Unifersitet\obj\Debug\PrepodMenu.baml
+C:\Users\мвидео\Desktop\Курсач\wpf\Unifersitet\Unifersitet\obj\Debug\ClassesPrep.g.cs
+C:\Users\мвидео\Desktop\Курсач\wpf\Unifersitet\Unifersitet\obj\Debug\ClassesPrep.baml
+C:\Users\мвидео\Desktop\Курсач\wpf\Unifersitet\Unifersitet\obj\Debug\Doljnost.g.cs
+C:\Users\мвидео\Desktop\Курсач\wpf\Unifersitet\Unifersitet\obj\Debug\Specialnost.g.cs
+C:\Users\мвидео\Desktop\Курсач\wpf\Unifersitet\Unifersitet\obj\Debug\Doljnost.baml
+C:\Users\мвидео\Desktop\Курсач\wpf\Unifersitet\Unifersitet\obj\Debug\Specialnost.baml
+C:\Users\мвидео\Desktop\Курсач\wpf\Unifersitet\Unifersitet\obj\Debug\Authorization.g.cs
+C:\Users\мвидео\Desktop\Курсач\wpf\Unifersitet\Unifersitet\obj\Debug\Enrolle.g.cs
+C:\Users\мвидео\Desktop\Курсач\wpf\Unifersitet\Unifersitet\obj\Debug\Profile.g.cs
+C:\Users\мвидео\Desktop\Курсач\wpf\Unifersitet\Unifersitet\obj\Debug\Rolle.g.cs
+C:\Users\мвидео\Desktop\Курсач\wpf\Unifersitet\Unifersitet\obj\Debug\Spisok_WCR.g.cs
+C:\Users\мвидео\Desktop\Курсач\wpf\Unifersitet\Unifersitet\obj\Debug\Staff.g.cs
+C:\Users\мвидео\Desktop\Курсач\wpf\Unifersitet\Unifersitet\obj\Debug\Student.g.cs
+C:\Users\мвидео\Desktop\Курсач\wpf\Unifersitet\Unifersitet\obj\Debug\Authorization.baml
+C:\Users\мвидео\Desktop\Курсач\wpf\Unifersitet\Unifersitet\obj\Debug\Enrolle.baml
+C:\Users\мвидео\Desktop\Курсач\wpf\Unifersitet\Unifersitet\obj\Debug\Profile.baml
+C:\Users\мвидео\Desktop\Курсач\wpf\Unifersitet\Unifersitet\obj\Debug\Rolle.baml
+C:\Users\мвидео\Desktop\Курсач\wpf\Unifersitet\Unifersitet\obj\Debug\Spisok_WCR.baml
+C:\Users\мвидео\Desktop\Курсач\wpf\Unifersitet\Unifersitet\obj\Debug\Staff.baml
+C:\Users\мвидео\Desktop\Курсач\wpf\Unifersitet\Unifersitet\obj\Debug\Student.baml
+C:\Users\мвидео\Desktop\Курсач\wpf\Unifersitet\Unifersitet\obj\Debug\Conduciton_Classes.g.cs
+C:\Users\мвидео\Desktop\Курсач\wpf\Unifersitet\Unifersitet\obj\Debug\Diplomas.g.cs
+C:\Users\мвидео\Desktop\Курсач\wpf\Unifersitet\Unifersitet\obj\Debug\Conduciton_Classes.baml
+C:\Users\мвидео\Desktop\Курсач\wpf\Unifersitet\Unifersitet\obj\Debug\Diplomas.baml
+C:\Users\мвидео\Desktop\Курсач\wpf\Unifersitet\Unifersitet\obj\Debug\Assignment_Of_Classes.g.cs
+C:\Users\мвидео\Desktop\Курсач\wpf\Unifersitet\Unifersitet\obj\Debug\Assignment_Of_Classes.baml
+C:\Users\мвидео\Desktop\Курсач\wpf\Unifersitet\Unifersitet\obj\Debug\Configuration.g.cs
+C:\Users\мвидео\Desktop\Курсач\wpf\Unifersitet\Unifersitet\obj\Debug\Configuration.baml
+C:\Users\мвидео\Desktop\Курсач\wpf\Unifersitet\Unifersitet\obj\Debug\Unifersitet.csprojAssemblyReference.cache
+C:\Users\мвидео\Desktop\Курсач\wpf\Unifersitet\Unifersitet\obj\Debug\Carrying_WRC.g.cs
+C:\Users\мвидео\Desktop\Курсач\wpf\Unifersitet\Unifersitet\obj\Debug\Carrying_WRC.baml
+C:\Users\мвидео\Desktop\Курсач\wpf\Unifersitet\Unifersitet\obj\Debug\WRC_Appointment.g.cs
+C:\Users\мвидео\Desktop\Курсач\wpf\Unifersitet\Unifersitet\obj\Debug\WRC_Appointment.baml
+C:\Users\мвидео\Desktop\Курсач\wpf\Unifersitet\Unifersitet\obj\Debug\Zastavka.g.cs
+C:\Users\мвидео\Desktop\Курсач\wpf\Unifersitet\Unifersitet\obj\Debug\Zastavka.baml
+C:\Users\мвидео\Desktop\Курсач\wpf\Unifersitet\Unifersitet\obj\Debug\Attendance_Check.g.cs
+C:\Users\мвидео\Desktop\Курсач\wpf\Unifersitet\Unifersitet\obj\Debug\Attendance_Check.baml
+C:\Users\мвидео\Desktop\Курсач\wpf\Unifersitet\Unifersitet\obj\Debug\Results_WRC.g.cs
+C:\Users\мвидео\Desktop\Курсач\wpf\Unifersitet\Unifersitet\obj\Debug\Results_WRC.baml
+C:\Users\мвидео\Desktop\4 курс\Квал 1 окт\ПМ 02 И-2-17 Дмитров\КП Дмитров\Программа\wpf\Unifersitet\Unifersitet\bin\Debug\Unifersitet.exe.config
+C:\Users\мвидео\Desktop\4 курс\Квал 1 окт\ПМ 02 И-2-17 Дмитров\КП Дмитров\Программа\wpf\Unifersitet\Unifersitet\bin\Debug\Unifersitet.exe
+C:\Users\мвидео\Desktop\4 курс\Квал 1 окт\ПМ 02 И-2-17 Дмитров\КП Дмитров\Программа\wpf\Unifersitet\Unifersitet\bin\Debug\Unifersitet.pdb
+C:\Users\мвидео\Desktop\4 курс\Квал 1 окт\ПМ 02 И-2-17 Дмитров\КП Дмитров\Программа\wpf\Unifersitet\Unifersitet\obj\Debug\Unifersitet.csprojAssemblyReference.cache
+C:\Users\мвидео\Desktop\4 курс\Квал 1 окт\ПМ 02 И-2-17 Дмитров\КП Дмитров\Программа\wpf\Unifersitet\Unifersitet\obj\Debug\Assignment_Of_Classes.g.cs
+C:\Users\мвидео\Desktop\4 курс\Квал 1 окт\ПМ 02 И-2-17 Дмитров\КП Дмитров\Программа\wpf\Unifersitet\Unifersitet\obj\Debug\Attendance_Check.g.cs
+C:\Users\мвидео\Desktop\4 курс\Квал 1 окт\ПМ 02 И-2-17 Дмитров\КП Дмитров\Программа\wpf\Unifersitet\Unifersitet\obj\Debug\Authorization.g.cs
+C:\Users\мвидео\Desktop\4 курс\Квал 1 окт\ПМ 02 И-2-17 Дмитров\КП Дмитров\Программа\wpf\Unifersitet\Unifersitet\obj\Debug\Carrying_WRC.g.cs
+C:\Users\мвидео\Desktop\4 курс\Квал 1 окт\ПМ 02 И-2-17 Дмитров\КП Дмитров\Программа\wpf\Unifersitet\Unifersitet\obj\Debug\Classes.g.cs
+C:\Users\мвидео\Desktop\4 курс\Квал 1 окт\ПМ 02 И-2-17 Дмитров\КП Дмитров\Программа\wpf\Unifersitet\Unifersitet\obj\Debug\ClassesPrep.g.cs
+C:\Users\мвидео\Desktop\4 курс\Квал 1 окт\ПМ 02 И-2-17 Дмитров\КП Дмитров\Программа\wpf\Unifersitet\Unifersitet\obj\Debug\Conduciton_Classes.g.cs
+C:\Users\мвидео\Desktop\4 курс\Квал 1 окт\ПМ 02 И-2-17 Дмитров\КП Дмитров\Программа\wpf\Unifersitet\Unifersitet\obj\Debug\Configuration.g.cs
+C:\Users\мвидео\Desktop\4 курс\Квал 1 окт\ПМ 02 И-2-17 Дмитров\КП Дмитров\Программа\wpf\Unifersitet\Unifersitet\obj\Debug\Diplomas.g.cs
+C:\Users\мвидео\Desktop\4 курс\Квал 1 окт\ПМ 02 И-2-17 Дмитров\КП Дмитров\Программа\wpf\Unifersitet\Unifersitet\obj\Debug\Doljnost.g.cs
+C:\Users\мвидео\Desktop\4 курс\Квал 1 окт\ПМ 02 И-2-17 Дмитров\КП Дмитров\Программа\wpf\Unifersitet\Unifersitet\obj\Debug\Enrolle.g.cs
+C:\Users\мвидео\Desktop\4 курс\Квал 1 окт\ПМ 02 И-2-17 Дмитров\КП Дмитров\Программа\wpf\Unifersitet\Unifersitet\obj\Debug\Groups.g.cs
+C:\Users\мвидео\Desktop\4 курс\Квал 1 окт\ПМ 02 И-2-17 Дмитров\КП Дмитров\Программа\wpf\Unifersitet\Unifersitet\obj\Debug\ListPrepod.g.cs
+C:\Users\мвидео\Desktop\4 курс\Квал 1 окт\ПМ 02 И-2-17 Дмитров\КП Дмитров\Программа\wpf\Unifersitet\Unifersitet\obj\Debug\MainWindow.g.cs
+C:\Users\мвидео\Desktop\4 курс\Квал 1 окт\ПМ 02 И-2-17 Дмитров\КП Дмитров\Программа\wpf\Unifersitet\Unifersitet\obj\Debug\PrepodMenu.g.cs
+C:\Users\мвидео\Desktop\4 курс\Квал 1 окт\ПМ 02 И-2-17 Дмитров\КП Дмитров\Программа\wpf\Unifersitet\Unifersitet\obj\Debug\Profile.g.cs
+C:\Users\мвидео\Desktop\4 курс\Квал 1 окт\ПМ 02 И-2-17 Дмитров\КП Дмитров\Программа\wpf\Unifersitet\Unifersitet\obj\Debug\Registation.g.cs
+C:\Users\мвидео\Desktop\4 курс\Квал 1 окт\ПМ 02 И-2-17 Дмитров\КП Дмитров\Программа\wpf\Unifersitet\Unifersitet\obj\Debug\Results_WRC.g.cs
+C:\Users\мвидео\Desktop\4 курс\Квал 1 окт\ПМ 02 И-2-17 Дмитров\КП Дмитров\Программа\wpf\Unifersitet\Unifersitet\obj\Debug\Rolle.g.cs
+C:\Users\мвидео\Desktop\4 курс\Квал 1 окт\ПМ 02 И-2-17 Дмитров\КП Дмитров\Программа\wpf\Unifersitet\Unifersitet\obj\Debug\Specialnost.g.cs
+C:\Users\мвидео\Desktop\4 курс\Квал 1 окт\ПМ 02 И-2-17 Дмитров\КП Дмитров\Программа\wpf\Unifersitet\Unifersitet\obj\Debug\Spisok_WCR.g.cs
+C:\Users\мвидео\Desktop\4 курс\Квал 1 окт\ПМ 02 И-2-17 Дмитров\КП Дмитров\Программа\wpf\Unifersitet\Unifersitet\obj\Debug\Staff.g.cs
+C:\Users\мвидео\Desktop\4 курс\Квал 1 окт\ПМ 02 И-2-17 Дмитров\КП Дмитров\Программа\wpf\Unifersitet\Unifersitet\obj\Debug\Student.g.cs
+C:\Users\мвидео\Desktop\4 курс\Квал 1 окт\ПМ 02 И-2-17 Дмитров\КП Дмитров\Программа\wpf\Unifersitet\Unifersitet\obj\Debug\StudentMenu.g.cs
+C:\Users\мвидео\Desktop\4 курс\Квал 1 окт\ПМ 02 И-2-17 Дмитров\КП Дмитров\Программа\wpf\Unifersitet\Unifersitet\obj\Debug\StudentZan.g.cs
+C:\Users\мвидео\Desktop\4 курс\Квал 1 окт\ПМ 02 И-2-17 Дмитров\КП Дмитров\Программа\wpf\Unifersitet\Unifersitet\obj\Debug\WRC_Appointment.g.cs
+C:\Users\мвидео\Desktop\4 курс\Квал 1 окт\ПМ 02 И-2-17 Дмитров\КП Дмитров\Программа\wpf\Unifersitet\Unifersitet\obj\Debug\Zastavka.g.cs
+C:\Users\мвидео\Desktop\4 курс\Квал 1 окт\ПМ 02 И-2-17 Дмитров\КП Дмитров\Программа\wpf\Unifersitet\Unifersitet\obj\Debug\App.g.cs
+C:\Users\мвидео\Desktop\4 курс\Квал 1 окт\ПМ 02 И-2-17 Дмитров\КП Дмитров\Программа\wpf\Unifersitet\Unifersitet\obj\Debug\Unifersitet_MarkupCompile.cache
+C:\Users\мвидео\Desktop\4 курс\Квал 1 окт\ПМ 02 И-2-17 Дмитров\КП Дмитров\Программа\wpf\Unifersitet\Unifersitet\obj\Debug\Unifersitet_MarkupCompile.lref
+C:\Users\мвидео\Desktop\4 курс\Квал 1 окт\ПМ 02 И-2-17 Дмитров\КП Дмитров\Программа\wpf\Unifersitet\Unifersitet\obj\Debug\Assignment_Of_Classes.baml
+C:\Users\мвидео\Desktop\4 курс\Квал 1 окт\ПМ 02 И-2-17 Дмитров\КП Дмитров\Программа\wpf\Unifersitet\Unifersitet\obj\Debug\Attendance_Check.baml
+C:\Users\мвидео\Desktop\4 курс\Квал 1 окт\ПМ 02 И-2-17 Дмитров\КП Дмитров\Программа\wpf\Unifersitet\Unifersitet\obj\Debug\Authorization.baml
+C:\Users\мвидео\Desktop\4 курс\Квал 1 окт\ПМ 02 И-2-17 Дмитров\КП Дмитров\Программа\wpf\Unifersitet\Unifersitet\obj\Debug\Carrying_WRC.baml
+C:\Users\мвидео\Desktop\4 курс\Квал 1 окт\ПМ 02 И-2-17 Дмитров\КП Дмитров\Программа\wpf\Unifersitet\Unifersitet\obj\Debug\Classes.baml
+C:\Users\мвидео\Desktop\4 курс\Квал 1 окт\ПМ 02 И-2-17 Дмитров\КП Дмитров\Программа\wpf\Unifersitet\Unifersitet\obj\Debug\ClassesPrep.baml
+C:\Users\мвидео\Desktop\4 курс\Квал 1 окт\ПМ 02 И-2-17 Дмитров\КП Дмитров\Программа\wpf\Unifersitet\Unifersitet\obj\Debug\Conduciton_Classes.baml
+C:\Users\мвидео\Desktop\4 курс\Квал 1 окт\ПМ 02 И-2-17 Дмитров\КП Дмитров\Программа\wpf\Unifersitet\Unifersitet\obj\Debug\Configuration.baml
+C:\Users\мвидео\Desktop\4 курс\Квал 1 окт\ПМ 02 И-2-17 Дмитров\КП Дмитров\Программа\wpf\Unifersitet\Unifersitet\obj\Debug\Diplomas.baml
+C:\Users\мвидео\Desktop\4 курс\Квал 1 окт\ПМ 02 И-2-17 Дмитров\КП Дмитров\Программа\wpf\Unifersitet\Unifersitet\obj\Debug\Doljnost.baml
+C:\Users\мвидео\Desktop\4 курс\Квал 1 окт\ПМ 02 И-2-17 Дмитров\КП Дмитров\Программа\wpf\Unifersitet\Unifersitet\obj\Debug\Enrolle.baml
+C:\Users\мвидео\Desktop\4 курс\Квал 1 окт\ПМ 02 И-2-17 Дмитров\КП Дмитров\Программа\wpf\Unifersitet\Unifersitet\obj\Debug\Groups.baml
+C:\Users\мвидео\Desktop\4 курс\Квал 1 окт\ПМ 02 И-2-17 Дмитров\КП Дмитров\Программа\wpf\Unifersitet\Unifersitet\obj\Debug\ListPrepod.baml
+C:\Users\мвидео\Desktop\4 курс\Квал 1 окт\ПМ 02 И-2-17 Дмитров\КП Дмитров\Программа\wpf\Unifersitet\Unifersitet\obj\Debug\MainWindow.baml
+C:\Users\мвидео\Desktop\4 курс\Квал 1 окт\ПМ 02 И-2-17 Дмитров\КП Дмитров\Программа\wpf\Unifersitet\Unifersitet\obj\Debug\PrepodMenu.baml
+C:\Users\мвидео\Desktop\4 курс\Квал 1 окт\ПМ 02 И-2-17 Дмитров\КП Дмитров\Программа\wpf\Unifersitet\Unifersitet\obj\Debug\Profile.baml
+C:\Users\мвидео\Desktop\4 курс\Квал 1 окт\ПМ 02 И-2-17 Дмитров\КП Дмитров\Программа\wpf\Unifersitet\Unifersitet\obj\Debug\Registation.baml
+C:\Users\мвидео\Desktop\4 курс\Квал 1 окт\ПМ 02 И-2-17 Дмитров\КП Дмитров\Программа\wpf\Unifersitet\Unifersitet\obj\Debug\Results_WRC.baml
+C:\Users\мвидео\Desktop\4 курс\Квал 1 окт\ПМ 02 И-2-17 Дмитров\КП Дмитров\Программа\wpf\Unifersitet\Unifersitet\obj\Debug\Rolle.baml
+C:\Users\мвидео\Desktop\4 курс\Квал 1 окт\ПМ 02 И-2-17 Дмитров\КП Дмитров\Программа\wpf\Unifersitet\Unifersitet\obj\Debug\Specialnost.baml
+C:\Users\мвидео\Desktop\4 курс\Квал 1 окт\ПМ 02 И-2-17 Дмитров\КП Дмитров\Программа\wpf\Unifersitet\Unifersitet\obj\Debug\Spisok_WCR.baml
+C:\Users\мвидео\Desktop\4 курс\Квал 1 окт\ПМ 02 И-2-17 Дмитров\КП Дмитров\Программа\wpf\Unifersitet\Unifersitet\obj\Debug\Staff.baml
+C:\Users\мвидео\Desktop\4 курс\Квал 1 окт\ПМ 02 И-2-17 Дмитров\КП Дмитров\Программа\wpf\Unifersitet\Unifersitet\obj\Debug\Student.baml
+C:\Users\мвидео\Desktop\4 курс\Квал 1 окт\ПМ 02 И-2-17 Дмитров\КП Дмитров\Программа\wpf\Unifersitet\Unifersitet\obj\Debug\StudentMenu.baml
+C:\Users\мвидео\Desktop\4 курс\Квал 1 окт\ПМ 02 И-2-17 Дмитров\КП Дмитров\Программа\wpf\Unifersitet\Unifersitet\obj\Debug\StudentZan.baml
+C:\Users\мвидео\Desktop\4 курс\Квал 1 окт\ПМ 02 И-2-17 Дмитров\КП Дмитров\Программа\wpf\Unifersitet\Unifersitet\obj\Debug\WRC_Appointment.baml
+C:\Users\мвидео\Desktop\4 курс\Квал 1 окт\ПМ 02 И-2-17 Дмитров\КП Дмитров\Программа\wpf\Unifersitet\Unifersitet\obj\Debug\Zastavka.baml
+C:\Users\мвидео\Desktop\4 курс\Квал 1 окт\ПМ 02 И-2-17 Дмитров\КП Дмитров\Программа\wpf\Unifersitet\Unifersitet\obj\Debug\Unifersitet.g.resources
+C:\Users\мвидео\Desktop\4 курс\Квал 1 окт\ПМ 02 И-2-17 Дмитров\КП Дмитров\Программа\wpf\Unifersitet\Unifersitet\obj\Debug\Unifersitet.Properties.Resources.resources
+C:\Users\мвидео\Desktop\4 курс\Квал 1 окт\ПМ 02 И-2-17 Дмитров\КП Дмитров\Программа\wpf\Unifersitet\Unifersitet\obj\Debug\Unifersitet.csproj.GenerateResource.cache
+C:\Users\мвидео\Desktop\4 курс\Квал 1 окт\ПМ 02 И-2-17 Дмитров\КП Дмитров\Программа\wpf\Unifersitet\Unifersitet\obj\Debug\Unifersitet.exe
+C:\Users\мвидео\Desktop\4 курс\Квал 1 окт\ПМ 02 И-2-17 Дмитров\КП Дмитров\Программа\wpf\Unifersitet\Unifersitet\obj\Debug\Unifersitet.pdb

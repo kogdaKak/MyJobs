@@ -1,0 +1,47 @@
+﻿<Window x:Class="Unifersitet.Staff"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Unifersitet"
+        mc:Ignorable="d"
+        Title="Staff" Height="450" Width="800" Loaded="Window_Loaded">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="auto"></ColumnDefinition>
+            <ColumnDefinition Width="200"></ColumnDefinition>
+            <ColumnDefinition Width="190"></ColumnDefinition>
+            <ColumnDefinition Width="272.788"></ColumnDefinition>
+            <ColumnDefinition Width="127.212"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <DataGrid Name="dgSpisokS" Grid.Row="0" Grid.Column="1"
+                  Grid.RowSpan="2" Grid.ColumnSpan="4"
+                  ColumnWidth="auto"
+                  AutoGenerateColumns="True" 
+                  AutoGeneratingColumn="DgStaff_AutoGeneratingColumn"
+                  IsReadOnly="True"/>
+
+        <TextBox Name="tbName" FontSize="12" Grid.Row="4" Grid.Column="1"
+                VerticalAlignment="Center" Grid.ColumnSpan="1"></TextBox>
+        <TextBox Name="tbFamily" FontSize="12" Grid.Row="4" Grid.Column="2"
+                VerticalAlignment="Center" Grid.ColumnSpan="1"></TextBox>
+        <TextBox Name="tbotchestvo" FontSize="12" Grid.Row="4" Grid.Column="3"
+                VerticalAlignment="Center" Grid.ColumnSpan="1"></TextBox>
+        <ComboBox Name="CBox" FontSize="12" Grid.Row="4" Grid.Column="4"
+                VerticalAlignment="Center" Grid.ColumnSpan="1"></ComboBox>
+
+        <Button Name="btExit" Content="Выход" Grid.Column="4" Grid.Row="3" VerticalAlignment="Top" HorizontalAlignment="Center" Click="btExit_Click" ></Button>
+        <Button Name="btInsert" Content="Добавить" Grid.Column="1" Grid.Row="3" HorizontalAlignment="Center" Margin="72,0,72,64" Click="btInsert_Click"/>
+        <Button Name="btUpdate" Content="Изменить" Grid.Column="2" Grid.Row="3" VerticalAlignment="Top" HorizontalAlignment="Center" Click="btUpdate_Click"></Button>
+        <Button Name="btDelete" Content="Удалить" Grid.Column="3" Grid.Row="3" VerticalAlignment="Top" HorizontalAlignment="Center" Click="btDelete_Click"></Button>
+    </Grid>
+</Window>

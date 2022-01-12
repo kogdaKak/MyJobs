@@ -1,0 +1,45 @@
+﻿<Window x:Class="Unifersitet.PrepodMenu"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Unifersitet"
+        mc:Ignorable="d"
+        Title="PrepodMenu" Height="450" Width="700">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60"></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="190"></ColumnDefinition>
+            <ColumnDefinition Width="250"></ColumnDefinition>
+            <ColumnDefinition Width="250"></ColumnDefinition>
+            <ColumnDefinition Width="300"/>
+        </Grid.ColumnDefinitions>
+        <Label Name="lblFio" Content="ФИО:"></Label>
+        <Label Name="lblPosiition" Content="Должность: Студент" Grid.Column="1" VerticalAlignment="Center"></Label>
+
+        <Button Visibility="Hidden" Name="Staff" Content="Сотрудники" Grid.Column="0" Grid.Row="1" VerticalAlignment="Center" Height="20" Width="140" HorizontalContentAlignment="Center" Click="Staff_Click" Margin="11,4,0,68" HorizontalAlignment="Left"></Button>
+        <Button Visibility="Hidden" Name="Enrolle"  Content="Студенты" Grid.Column="2" Grid.Row="1" VerticalAlignment="Center" Height="20" Width="140" HorizontalContentAlignment="Center" Click="Enrolle_Click" Margin="65,4,45,68"></Button>
+        <Button Visibility="Hidden" Name="Doljnost" Content="Должности" Grid.Column="1" Grid.Row="1" VerticalAlignment="Center" Height="20" Width="140" HorizontalContentAlignment="Center" Margin="153,67,207,5" Click="Doljnost_Click" Grid.ColumnSpan="2"/>
+
+        <Button Name="btExit" Content="Выйти" Grid.Column="2" VerticalAlignment="Center" HorizontalContentAlignment="Center" Height="20" Width="140" Click="btExit_Click" Margin="67,14,43,28" />
+        <Button Visibility="Hidden" Name="btGroups" Content="Группы" Grid.Row="1" VerticalAlignment="Center" HorizontalContentAlignment="Center" Height="20" Width="140" Click="btGroups_Click" Margin="178,4,122,68" Grid.ColumnSpan="2" />
+        <Button Visibility="Hidden" Name="btClasses" Content="Занятия" Grid.Row="1" VerticalAlignment="Center" HorizontalContentAlignment="Center" Height="20" Width="140" Click="btClasses_Click" Margin="181,3,119,67" Grid.ColumnSpan="2" />
+        <Button Name="btLeaveClasses" Content="Проведенные занятия" Grid.Row="1" VerticalAlignment="Center" HorizontalContentAlignment="Center" Height="20" Width="140" Click="btLeaveClasses_Click" Margin="11,9,39,61" />
+        <Button Visibility="Hidden" Name="btClass_Change" Content="Замены" Grid.Row="1" VerticalAlignment="Center" HorizontalContentAlignment="Center" Height="20" Width="140" Click="btClass_Change_Click" Margin="177,37,123,35" Grid.ColumnSpan="2" />
+        <Button Name="btWRCList" Content="Список заданий" Grid.Column="1" Grid.Row="1" VerticalAlignment="Center" HorizontalContentAlignment="Center" Height="20" Width="140" Click="btWRCList_Click" Margin="0,8,110,62" />
+        <Button Name="btDiploms" Content="Дипломы" Grid.Column="1" Grid.Row="1" VerticalAlignment="Center" HorizontalContentAlignment="Center" Height="20" Width="140" Click="btDiploms_Click" Margin="168,7,192,63" Grid.ColumnSpan="2" ></Button>
+        <Button Visibility="Hidden" Content="Абитуриенты" HorizontalAlignment="Left" Margin="178,66,0,0" Grid.Row="1" VerticalAlignment="Top" Height="20" Width="140" Click="Button_Click" Grid.ColumnSpan="2"/>
+        <Button Visibility="Hidden" Content="Проводимые занятия" Grid.Column="1" HorizontalAlignment="Left" Height="20" Width="140" Margin="152,35,0,0" Grid.Row="1" VerticalAlignment="Top" Click="Button_Click_1" Grid.ColumnSpan="2"/>
+        <Button Visibility="Hidden" Content="Специальности" Grid.Column="2" HorizontalAlignment="Left" Margin="66,67,0,0" Height="20" Width="140" Grid.Row="1" VerticalAlignment="Top" Click="Button_Click_2"/>
+        <Button Content="Проведение ВКР" HorizontalAlignment="Left" Margin="87,5,0,0" Grid.Row="1" VerticalAlignment="Top" Height="20" Width="140" Click="Button_Click_3" Grid.Column="2"/>
+        <Button Visibility="Hidden" Content="Проверка посещаемости" Height="20" Width="140" Grid.ColumnSpan="2" Grid.Column="1" Margin="153,5,207,65" Grid.Row="2" Click="Button_Click_5"></Button>
+        <Button Content="Результаты ВКР" Height="20" Width="140" Grid.Column="1" Margin="84,57,26,13" Grid.Row="1" Click="Button_Click_6"/>
+        <Button Visibility="Hidden" Content="Назначение ВКР" HorizontalAlignment="Left" Margin="182,34,0,0" Grid.Row="1" VerticalAlignment="Top" Height="20" Width="140" Click="Button_Click_4" Grid.ColumnSpan="2"/>
+    </Grid>
+</Window>

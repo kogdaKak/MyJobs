@@ -1,0 +1,210 @@
+C:\Users\Dmitry.DMITROVDIMAA\Desktop\Diplom\PRogramm\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\bin\Debug\MptHelperDisShed.exe.config
+C:\Users\Dmitry.DMITROVDIMAA\Desktop\Diplom\PRogramm\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\bin\Debug\MptHelperDisShed.exe
+C:\Users\Dmitry.DMITROVDIMAA\Desktop\Diplom\PRogramm\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\bin\Debug\MptHelperDisShed.pdb
+C:\Users\Dmitry.DMITROVDIMAA\Desktop\Diplom\PRogramm\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\MptHelperDisShed.csprojAssemblyReference.cache
+C:\Users\Dmitry.DMITROVDIMAA\Desktop\Diplom\PRogramm\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\MptHelperDisShed.csproj.ResolveComReference.cache
+C:\Users\Dmitry.DMITROVDIMAA\Desktop\Diplom\PRogramm\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\Import.g.cs
+C:\Users\Dmitry.DMITROVDIMAA\Desktop\Diplom\PRogramm\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\App.g.cs
+C:\Users\Dmitry.DMITROVDIMAA\Desktop\Diplom\PRogramm\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\MptHelperDisShed_MarkupCompile.cache
+C:\Users\Dmitry.DMITROVDIMAA\Desktop\Diplom\PRogramm\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\MptHelperDisShed_MarkupCompile.lref
+C:\Users\Dmitry.DMITROVDIMAA\Desktop\Diplom\PRogramm\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\Import.baml
+C:\Users\Dmitry.DMITROVDIMAA\Desktop\Diplom\PRogramm\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\MptHelperDisShed.g.resources
+C:\Users\Dmitry.DMITROVDIMAA\Desktop\Diplom\PRogramm\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\MptHelperDisShed.Properties.Resources.resources
+C:\Users\Dmitry.DMITROVDIMAA\Desktop\Diplom\PRogramm\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\MptHelperDisShed.csproj.GenerateResource.cache
+C:\Users\Dmitry.DMITROVDIMAA\Desktop\Diplom\PRogramm\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\MptHelperDisShed.exe
+C:\Users\Dmitry.DMITROVDIMAA\Desktop\Diplom\PRogramm\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\MptHelperDisShed.pdb
+C:\Users\Dmitry.DMITROVDIMAA\Desktop\Diplom\PRogramm\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\Distributon.g.cs
+C:\Users\Dmitry.DMITROVDIMAA\Desktop\Diplom\PRogramm\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\Distributon.baml
+C:\Users\Dmitry.DMITROVDIMAA\Desktop\Diplom\PRogramm\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\bin\Debug\MaterialDesignColors.dll
+C:\Users\Dmitry.DMITROVDIMAA\Desktop\Diplom\PRogramm\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Dmitry.DMITROVDIMAA\Desktop\Diplom\PRogramm\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Dmitry.DMITROVDIMAA\Desktop\Diplom\PRogramm\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Dmitry.DMITROVDIMAA\Desktop\Diplom\PRogramm\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Dmitry.DMITROVDIMAA\Desktop\Diplom\PRogramm\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\App.baml
+C:\Users\Dmitry.DMITROVDIMAA\Desktop\Diplom\PRogramm\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\MptHelperDisShed.csproj.CopyComplete
+C:\Users\Dmitry.DMITROVDIMAA\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\bin\Debug\MptHelperDisShed.exe.config
+C:\Users\Dmitry.DMITROVDIMAA\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\bin\Debug\MptHelperDisShed.exe
+C:\Users\Dmitry.DMITROVDIMAA\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\bin\Debug\MptHelperDisShed.pdb
+C:\Users\Dmitry.DMITROVDIMAA\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\bin\Debug\MaterialDesignColors.dll
+C:\Users\Dmitry.DMITROVDIMAA\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Dmitry.DMITROVDIMAA\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Dmitry.DMITROVDIMAA\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Dmitry.DMITROVDIMAA\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Dmitry.DMITROVDIMAA\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\MptHelperDisShed.csprojAssemblyReference.cache
+C:\Users\Dmitry.DMITROVDIMAA\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\MptHelperDisShed.csproj.ResolveComReference.cache
+C:\Users\Dmitry.DMITROVDIMAA\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\Distributon.g.cs
+C:\Users\Dmitry.DMITROVDIMAA\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\Import.g.cs
+C:\Users\Dmitry.DMITROVDIMAA\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\App.g.cs
+C:\Users\Dmitry.DMITROVDIMAA\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\MptHelperDisShed_MarkupCompile.cache
+C:\Users\Dmitry.DMITROVDIMAA\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\MptHelperDisShed_MarkupCompile.lref
+C:\Users\Dmitry.DMITROVDIMAA\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\App.baml
+C:\Users\Dmitry.DMITROVDIMAA\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\Distributon.baml
+C:\Users\Dmitry.DMITROVDIMAA\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\Import.baml
+C:\Users\Dmitry.DMITROVDIMAA\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\MptHelperDisShed.g.resources
+C:\Users\Dmitry.DMITROVDIMAA\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\MptHelperDisShed.Properties.Resources.resources
+C:\Users\Dmitry.DMITROVDIMAA\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\MptHelperDisShed.csproj.GenerateResource.cache
+C:\Users\Dmitry.DMITROVDIMAA\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\MptHelperDisShed.csproj.CopyComplete
+C:\Users\Dmitry.DMITROVDIMAA\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\MptHelperDisShed.exe
+C:\Users\Dmitry.DMITROVDIMAA\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\MptHelperDisShed.pdb
+C:\Users\Dmitry.DMITROVDIMAA\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\Employe.g.cs
+C:\Users\Dmitry.DMITROVDIMAA\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\Group.g.cs
+C:\Users\Dmitry.DMITROVDIMAA\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\Employe.baml
+C:\Users\Dmitry.DMITROVDIMAA\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\Group.baml
+C:\Users\Dmitry.DMITROVDIMAA\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\Add.g.cs
+C:\Users\Dmitry.DMITROVDIMAA\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\Add.baml
+C:\Users\Dmitry.DMITROVDIMAA\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\Auditorniy.g.cs
+C:\Users\Dmitry.DMITROVDIMAA\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\Auditorniy.baml
+C:\Users\Dmitry.DMITROVDIMAA\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\ZakreplenieFonda.g.cs
+C:\Users\Dmitry.DMITROVDIMAA\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\ZakreplenieFonda.baml
+C:\Users\Dmitry.DMITROVDIMAA\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\Authorization.g.cs
+C:\Users\Dmitry.DMITROVDIMAA\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\Authorization.baml
+C:\Users\Dmitry.DMITROVDIMAA\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Dmitry.DMITROVDIMAA\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\bin\Debug\MailKit.dll
+C:\Users\Dmitry.DMITROVDIMAA\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\bin\Debug\MimeKit.dll
+C:\Users\Dmitry.DMITROVDIMAA\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\bin\Debug\System.Buffers.dll
+C:\Users\Dmitry.DMITROVDIMAA\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Dmitry.DMITROVDIMAA\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\bin\Debug\MailKit.pdb
+C:\Users\Dmitry.DMITROVDIMAA\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\bin\Debug\MailKit.xml
+C:\Users\Dmitry.DMITROVDIMAA\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\bin\Debug\MimeKit.pdb
+C:\Users\Dmitry.DMITROVDIMAA\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\bin\Debug\MimeKit.xml
+C:\Users\Dmitry.DMITROVDIMAA\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\bin\Debug\System.Buffers.xml
+C:\Users\Dmitry.DMITROVDIMAA\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\Registration.g.cs
+C:\Users\Dmitry.DMITROVDIMAA\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\Registration.baml
+C:\Users\Dmitry.DMITROVDIMAA\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\Sformirovat.g.cs
+C:\Users\Dmitry.DMITROVDIMAA\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\Sformirovat.baml
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\bin\Debug\MptHelperDisShed.exe.config
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\bin\Debug\MptHelperDisShed.exe
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\bin\Debug\MptHelperDisShed.pdb
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\bin\Debug\MailKit.dll
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\bin\Debug\MaterialDesignColors.dll
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\bin\Debug\MimeKit.dll
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\bin\Debug\System.Buffers.dll
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\bin\Debug\MailKit.pdb
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\bin\Debug\MailKit.xml
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\bin\Debug\MimeKit.pdb
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\bin\Debug\MimeKit.xml
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\bin\Debug\System.Buffers.xml
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\MptHelperDisShed.csprojAssemblyReference.cache
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\MptHelperDisShed.csproj.ResolveComReference.cache
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\Add.g.cs
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\Auditorniy.g.cs
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\Authorization.g.cs
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\Distributon.g.cs
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\Employe.g.cs
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\Group.g.cs
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\Import.g.cs
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\Registration.g.cs
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\Sformirovat.g.cs
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\ZakreplenieFonda.g.cs
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\App.g.cs
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\MptHelperDisShed_MarkupCompile.cache
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\MptHelperDisShed_MarkupCompile.lref
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\App.baml
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\Add.baml
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\Auditorniy.baml
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\Authorization.baml
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\Distributon.baml
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\Employe.baml
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\Group.baml
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\Import.baml
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\Registration.baml
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\Sformirovat.baml
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\ZakreplenieFonda.baml
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\MptHelperDisShed.g.resources
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\MptHelperDisShed.Properties.Resources.resources
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\MptHelperDisShed.csproj.GenerateResource.cache
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\MptHelperDisShed.csproj.CopyComplete
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\MptHelperDisShed.exe
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\MptHelperDisShed.pdb
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\Сonnection_Сonfiguration.g.cs
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\Сonnection_Сonfiguration.baml
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\bin\Debug\LiveCharts.dll
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\bin\Debug\LiveCharts.pdb
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\bin\Debug\LiveCharts.xml
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\Statistics.g.cs
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\Statistics.baml
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\Distribution_Priority.g.cs
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\Distribution_Priority.baml
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\Change_Password.g.cs
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\Change_Password.baml
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\EXCEL_PROCEDURE.g.cs
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\EXCEL_PROCEDURE.baml
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\Distrib.g.cs
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\MptHelperDisShed\MptHelperDisShed\obj\Debug\Distrib.baml
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\Текст программы\MptHelperDisShed\MptHelperDisShed\bin\Debug\MptHelperDisShed.exe.config
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\Текст программы\MptHelperDisShed\MptHelperDisShed\bin\Debug\MptHelperDisShed.exe
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\Текст программы\MptHelperDisShed\MptHelperDisShed\bin\Debug\MptHelperDisShed.pdb
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\Текст программы\MptHelperDisShed\MptHelperDisShed\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\Текст программы\MptHelperDisShed\MptHelperDisShed\bin\Debug\LiveCharts.dll
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\Текст программы\MptHelperDisShed\MptHelperDisShed\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\Текст программы\MptHelperDisShed\MptHelperDisShed\bin\Debug\MailKit.dll
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\Текст программы\MptHelperDisShed\MptHelperDisShed\bin\Debug\MaterialDesignColors.dll
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\Текст программы\MptHelperDisShed\MptHelperDisShed\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\Текст программы\MptHelperDisShed\MptHelperDisShed\bin\Debug\MimeKit.dll
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\Текст программы\MptHelperDisShed\MptHelperDisShed\bin\Debug\System.Buffers.dll
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\Текст программы\MptHelperDisShed\MptHelperDisShed\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\Текст программы\MptHelperDisShed\MptHelperDisShed\bin\Debug\LiveCharts.pdb
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\Текст программы\MptHelperDisShed\MptHelperDisShed\bin\Debug\LiveCharts.xml
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\Текст программы\MptHelperDisShed\MptHelperDisShed\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\Текст программы\MptHelperDisShed\MptHelperDisShed\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\Текст программы\MptHelperDisShed\MptHelperDisShed\bin\Debug\MailKit.pdb
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\Текст программы\MptHelperDisShed\MptHelperDisShed\bin\Debug\MailKit.xml
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\Текст программы\MptHelperDisShed\MptHelperDisShed\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\Текст программы\MptHelperDisShed\MptHelperDisShed\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\Текст программы\MptHelperDisShed\MptHelperDisShed\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\Текст программы\MptHelperDisShed\MptHelperDisShed\bin\Debug\MimeKit.pdb
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\Текст программы\MptHelperDisShed\MptHelperDisShed\bin\Debug\MimeKit.xml
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\Текст программы\MptHelperDisShed\MptHelperDisShed\bin\Debug\System.Buffers.xml
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\Текст программы\MptHelperDisShed\MptHelperDisShed\obj\Debug\MptHelperDisShed.csprojAssemblyReference.cache
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\Текст программы\MptHelperDisShed\MptHelperDisShed\obj\Debug\MptHelperDisShed.csproj.ResolveComReference.cache
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\Текст программы\MptHelperDisShed\MptHelperDisShed\obj\Debug\Add.g.cs
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\Текст программы\MptHelperDisShed\MptHelperDisShed\obj\Debug\Auditorniy.g.cs
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\Текст программы\MptHelperDisShed\MptHelperDisShed\obj\Debug\Authorization.g.cs
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\Текст программы\MptHelperDisShed\MptHelperDisShed\obj\Debug\Change_Password.g.cs
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\Текст программы\MptHelperDisShed\MptHelperDisShed\obj\Debug\Distrib.g.cs
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\Текст программы\MptHelperDisShed\MptHelperDisShed\obj\Debug\Distribution_Priority.g.cs
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\Текст программы\MptHelperDisShed\MptHelperDisShed\obj\Debug\Distributon.g.cs
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\Текст программы\MptHelperDisShed\MptHelperDisShed\obj\Debug\Employe.g.cs
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\Текст программы\MptHelperDisShed\MptHelperDisShed\obj\Debug\EXCEL_PROCEDURE.g.cs
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\Текст программы\MptHelperDisShed\MptHelperDisShed\obj\Debug\Group.g.cs
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\Текст программы\MptHelperDisShed\MptHelperDisShed\obj\Debug\Import.g.cs
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\Текст программы\MptHelperDisShed\MptHelperDisShed\obj\Debug\Registration.g.cs
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\Текст программы\MptHelperDisShed\MptHelperDisShed\obj\Debug\Sformirovat.g.cs
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\Текст программы\MptHelperDisShed\MptHelperDisShed\obj\Debug\Statistics.g.cs
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\Текст программы\MptHelperDisShed\MptHelperDisShed\obj\Debug\ZakreplenieFonda.g.cs
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\Текст программы\MptHelperDisShed\MptHelperDisShed\obj\Debug\Сonnection_Сonfiguration.g.cs
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\Текст программы\MptHelperDisShed\MptHelperDisShed\obj\Debug\App.g.cs
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\Текст программы\MptHelperDisShed\MptHelperDisShed\obj\Debug\MptHelperDisShed_MarkupCompile.cache
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\Текст программы\MptHelperDisShed\MptHelperDisShed\obj\Debug\MptHelperDisShed_MarkupCompile.lref
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\Текст программы\MptHelperDisShed\MptHelperDisShed\obj\Debug\App.baml
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\Текст программы\MptHelperDisShed\MptHelperDisShed\obj\Debug\Add.baml
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\Текст программы\MptHelperDisShed\MptHelperDisShed\obj\Debug\Auditorniy.baml
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\Текст программы\MptHelperDisShed\MptHelperDisShed\obj\Debug\Authorization.baml
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\Текст программы\MptHelperDisShed\MptHelperDisShed\obj\Debug\Change_Password.baml
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\Текст программы\MptHelperDisShed\MptHelperDisShed\obj\Debug\Distrib.baml
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\Текст программы\MptHelperDisShed\MptHelperDisShed\obj\Debug\Distribution_Priority.baml
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\Текст программы\MptHelperDisShed\MptHelperDisShed\obj\Debug\Distributon.baml
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\Текст программы\MptHelperDisShed\MptHelperDisShed\obj\Debug\Employe.baml
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\Текст программы\MptHelperDisShed\MptHelperDisShed\obj\Debug\EXCEL_PROCEDURE.baml
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\Текст программы\MptHelperDisShed\MptHelperDisShed\obj\Debug\Group.baml
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\Текст программы\MptHelperDisShed\MptHelperDisShed\obj\Debug\Import.baml
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\Текст программы\MptHelperDisShed\MptHelperDisShed\obj\Debug\Registration.baml
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\Текст программы\MptHelperDisShed\MptHelperDisShed\obj\Debug\Sformirovat.baml
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\Текст программы\MptHelperDisShed\MptHelperDisShed\obj\Debug\Statistics.baml
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\Текст программы\MptHelperDisShed\MptHelperDisShed\obj\Debug\ZakreplenieFonda.baml
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\Текст программы\MptHelperDisShed\MptHelperDisShed\obj\Debug\Сonnection_Сonfiguration.baml
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\Текст программы\MptHelperDisShed\MptHelperDisShed\obj\Debug\MptHelperDisShed.g.resources
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\Текст программы\MptHelperDisShed\MptHelperDisShed\obj\Debug\MptHelperDisShed.Properties.Resources.resources
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\Текст программы\MptHelperDisShed\MptHelperDisShed\obj\Debug\MptHelperDisShed.csproj.GenerateResource.cache
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\Текст программы\MptHelperDisShed\MptHelperDisShed\obj\Debug\MptHelperDisShed.csproj.CopyComplete
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\Текст программы\MptHelperDisShed\MptHelperDisShed\obj\Debug\MptHelperDisShed.exe
+C:\Users\Dmitry.DMITROVDIMAA\OneDrive\Desktop\Diplom\PRogramm\DIPLOM MPT HELPER 2 Verison\MptHelperDisShed\Текст программы\MptHelperDisShed\MptHelperDisShed\obj\Debug\MptHelperDisShed.pdb

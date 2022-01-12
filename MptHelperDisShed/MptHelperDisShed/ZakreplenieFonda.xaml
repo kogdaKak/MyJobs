@@ -1,0 +1,36 @@
+﻿<Window x:Class="MptHelperDisShed.ZakreplenieFonda"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MptHelperDisShed"
+        mc:Ignorable="d"
+        Title="Распределение сотрудников" Loaded="Window_Loaded" Background="#C1D5e0" WindowState="Maximized">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition Width="300"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <ComboBox Grid.Row="0" Grid.Column="2" Grid.RowSpan="1" Name="cbEmploye" Height="100" Width="200" Margin="31,29,69,560" Background="White"></ComboBox>
+        <Label Grid.Row="0" Grid.Column="2" Grid.RowSpan="1" Content="Сотрудники"></Label>
+        <Label Grid.Row="0" Grid.Column="2" Grid.RowSpan="1" Content="Территория" Width="100" Height="100" Margin="6,126,194,463"></Label>
+        <Label Grid.Row="0" Grid.Column="2" Grid.RowSpan="1" Content="Кабинеты" Width="100" Height="100" Margin="6,264,194,325"></Label>
+        <ComboBox Grid.Row="0" Grid.Column="2" Grid.RowSpan="1" Name="CbTerritory" Height="100" Width="200" Margin="32,154,68,435" SelectionChanged="CbTerritory_SelectionChanged" Background="White"/>
+        <ComboBox Grid.Row="0" Grid.Column="2" Grid.RowSpan="1" Name="cbCabs" Height="100" Width="200" Margin="26,287,74,302" Background="White"/>
+        <TextBox Name="tbPrioritet" Text="Введите приоритет" Height="50" Width="200" Margin="7,118,585,201"></TextBox>
+        <DataGrid Grid.Row="0" Grid.Column="1" Grid.RowSpan="1" Grid.ColumnSpan="1" Height="400" Name="dgSoedinenie" IsReadOnly="True" IsEnabled="True" />
+
+        <Button Content="Найти" HorizontalAlignment="Left" Margin="136,205,0,0" VerticalAlignment="Top" Width="75" Background="#FF8BAFC2" Click="Button_Click"/>
+        <Button Content="Добавить" HorizontalAlignment="Left" Margin="21,204,0,0" VerticalAlignment="Top" Width="100" Background="#FF8BAFC2" Click="Button_Click_1"/>
+        <Button Content="Удалить" HorizontalAlignment="Left" Margin="21,245,0,0" VerticalAlignment="Top" Width="100" Background="#FF8BAFC2" Click="Button_Click_2"/>
+        <Button Content="Изменить" HorizontalAlignment="Left" Margin="21,288,0,0" VerticalAlignment="Top" Width="100" Background="#FF8BAFC2" Click="Button_Click_3"/>
+        <Button Content="Статистика" HorizontalAlignment="Left" Margin="23,327,0,0" VerticalAlignment="Top" Width="100" Background="#FF8BAFC2" Click="Button_Click_4"/>
+        <Button Content="Страница формирования" HorizontalAlignment="Left" Margin="23,327,0,0" VerticalAlignment="Top" Width="206" Background="#FF8BAFC2" Click="Button_Click_5"/>
+        <TextBox Name="txtFilePath" Width="150" Height="150" Margin="496,131,146,138" Visibility="Hidden"></TextBox>
+
+    </Grid>
+</Window>

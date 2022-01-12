@@ -1,0 +1,47 @@
+﻿<Window x:Class="MptHelperDisShed.Сonnection_Сonfiguration"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MptHelperDisShed"
+        mc:Ignorable="d"
+        Title="Сonnection_Сonfiguration" Height="450" Width="800" Background="#C1D5e0" WindowState="Maximized" >
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"></RowDefinition>
+            <RowDefinition Height="30"></RowDefinition>
+            <RowDefinition Height="30"></RowDefinition>
+            <RowDefinition Height="30"></RowDefinition>
+            <RowDefinition Height="30"></RowDefinition>
+            <RowDefinition Height="30"></RowDefinition>
+            <RowDefinition Height="30"></RowDefinition>
+            <RowDefinition Height="30"></RowDefinition>
+
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            
+        </Grid.ColumnDefinitions>
+        <Label Name="lblMainTitle" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="4" Content="Подключение к серверу " HorizontalContentAlignment="Center" FontSize="30" VerticalAlignment="Center"></Label>
+
+        <UniformGrid Grid.Row="1" Grid.Column="0" Rows="4" Grid.RowSpan="4" Grid.ColumnSpan="3" >
+            <Label Name ="lblServer" Content ="Название сервера" HorizontalContentAlignment="Center" FontSize="14"/>
+            <ComboBox Name="cbServer" SelectionChanged="cbServers_SelectionChanged" >
+                <ListBoxItem Content="DMITROVDIMAA\SERVERDMITROV"/>
+            </ComboBox>
+            <Label Name="lblDate" Content="Название базы данных" HorizontalContentAlignment="Center" FontSize="14"/>
+            <ComboBox Name="cbDatabase" IsEnabled="False" >
+                <ListBoxItem Content="InstitytTT"/>
+            </ComboBox>
+        </UniformGrid>
+        <UniformGrid Grid.Row="5" Grid.Column="0" Grid.ColumnSpan="2" Grid.RowSpan="7">
+       
+        </UniformGrid>
+        <Button Height="150" Grid.Row="8" Grid.Column="0" Grid.RowSpan="1" Grid.ColumnSpan="1" Name="btCheked" Content="Проверка подключения" Background="#FF8BAFC2" Click="BtCheked_Click"  VerticalAlignment="Top" />
+        <Button Height="150" Grid.Row="8" Grid.Column="1" Grid.RowSpan="1" Grid.ColumnSpan="1" Name="btConnect" Content="Подключение" Background="#FF8BAFC2" Click="btConnect_Click" IsEnabled="False"/>
+        <Button x:Name="btCancel" Content="Отмена" Grid.Row="8" Grid.Column="3" Grid.RowSpan="1" Grid.ColumnSpan="1" Height="150" Background="#FF8BAFC2" Click="BtCancel_Click"/>
+    </Grid>
+</Window>

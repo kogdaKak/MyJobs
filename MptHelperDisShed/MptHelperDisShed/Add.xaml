@@ -1,0 +1,59 @@
+﻿<Window Name="Window" x:Class="MptHelperDisShed.Add"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:design="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MptHelperDisShed"
+        mc:Ignorable="d"
+        Title="MainWindow" WindowStartupLocation="CenterScreen" WindowState="Maximized" FontFamily="Verdanta" Background="#90A4AE"  Loaded="Window_Loaded" Closed="Window_Closed">
+    <Grid Background="#90A4AE">
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <DataGrid Grid.Row="0" Grid.Column="3" Grid.RowSpan="4" Grid.ColumnSpan="7" ColumnWidth="auto" IsReadOnly="True" Name="dgNLP" HorizontalAlignment="Left" VerticalAlignment="Top" AutoGenerateColumns="True" AutoGeneratingColumn="dgNLP_AutoGeneratingColumn"></DataGrid>
+        <Button design:ButtonProgressAssist.IndicatorBackground="Blue" design:ButtonAssist.CornerRadius="10" Name="btInsert" Grid.Row="6" Grid.Column="0" Grid.RowSpan="3" Grid.ColumnSpan="2" Content="Добавить" HorizontalAlignment="Left" Width="120" VerticalAlignment="Top" Click="Button_Click"/>
+        <Button design:ButtonProgressAssist.IndicatorBackground="Blue" design:ButtonAssist.CornerRadius="10" Name="btUpdate" Grid.Row="6" Grid.Column="2" Grid.RowSpan="3" Grid.ColumnSpan="2" Content="Изменить" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Click="Button_Click_1"/>
+        <Button design:ButtonProgressAssist.IndicatorBackground="Blue" design:ButtonAssist.CornerRadius="10" Name="btDelete" Grid.Row="6" Grid.Column="4" Grid.RowSpan="3" Grid.ColumnSpan="2" Content="Удалить" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Click="Button_Click_2"/>
+        <Button  Grid.Row="6" Grid.Column="6" Grid.RowSpan="3" Grid.ColumnSpan="2" design:ButtonProgressAssist.IndicatorBackground="Blue" design:ButtonAssist.CornerRadius="10" Content="Найти" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Click="Serch_Click" Name="Serch"/>
+        <Button  Grid.Row="6" Grid.Column="8" Grid.RowSpan="3" Grid.ColumnSpan="2" design:ButtonProgressAssist.IndicatorBackground="Blue" design:ButtonAssist.CornerRadius="10" Content="Ворд" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Click="Word_Click" Name="Word"/>
+
+        <ComboBox SelectionChanged="cbInfoGroup_SelectionChanged" Background="LightGray" Grid.Row="7" Grid.Column="4" Grid.RowSpan="1" Grid.ColumnSpan="3" Name="cbNLP" HorizontalAlignment="Left" VerticalAlignment="Top" Width="150"/>
+        <TextBox Background="LightGray" Grid.Row="7" Grid.Column="1" Grid.RowSpan="1" Grid.ColumnSpan="3" Name="tbNumberClasses" HorizontalAlignment="Left" TextWrapping="Wrap" Text="Номер пары" VerticalAlignment="Top" Width="150"/>
+        <TextBox Background="LightGray" Grid.Row="8" Grid.Column="1" Grid.RowSpan="1" Grid.ColumnSpan="3" Name="tbDay" HorizontalAlignment="Left" TextWrapping="Wrap" Text="День" VerticalAlignment="Top" Width="150"/>
+        <CheckBox Grid.Row="8" Grid.Column="6" Grid.RowSpan="1" Grid.ColumnSpan="2" Name="chbFilter" Content="Фильтрация"/>
+        <CheckBox  Grid.Row="8" Grid.Column="4" Grid.RowSpan="1" Grid.ColumnSpan="2" Content="Знаминатель" Name="chbOrder" HorizontalAlignment="Left" VerticalAlignment="Top" Height="50" Width="100" Click="chbOrder_Click"/>
+        <Button Visibility="Hidden" design:ButtonProgressAssist.IndicatorBackground="Blue" design:ButtonAssist.CornerRadius="10" Name="btExcel" Grid.Row="10" Grid.Column="8" Grid.RowSpan="3" Grid.ColumnSpan="2" Content="Выгрузка" HorizontalAlignment="Center" VerticalAlignment="Top" Width="120" Click="Button_Click_3"/>
+        <Button design:ButtonProgressAssist.IndicatorBackground="Blue" design:ButtonAssist.CornerRadius="10" Name="btShelder" Grid.Row="10" Grid.Column="6" Grid.RowSpan="3" Grid.ColumnSpan="2" Content="Распределение" HorizontalAlignment="Center" VerticalAlignment="Top" Width="120" Click="Button_Click_4"/>
+        <Button design:ButtonProgressAssist.IndicatorBackground="Blue" design:ButtonAssist.CornerRadius="10" Name="btClasses" Grid.Row="10" Grid.Column="4" Grid.RowSpan="3" Grid.ColumnSpan="2" Content="Кабинеты" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Click="Button_Click_5"/>
+        <Button design:ButtonProgressAssist.IndicatorBackground="Blue" design:ButtonAssist.CornerRadius="10" Name="btEmploye" Grid.Row="10" Grid.Column="2" Grid.RowSpan="3" Grid.ColumnSpan="2" Content="Сотрудники" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Click="Button_Click_6"/>
+        <Button design:ButtonProgressAssist.IndicatorBackground="Blue" design:ButtonAssist.CornerRadius="10" Name="btRaspisanie" Grid.Row="10" Grid.Column="0" Grid.RowSpan="1" Grid.ColumnSpan="2" Content="Аудиторник" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Click="Button_Click_7"/>
+        <Button design:ButtonProgressAssist.IndicatorBackground="Blue" design:ButtonAssist.CornerRadius="10" Name="btBut" Grid.Row="10" Grid.Column="10" Grid.RowSpan="3" Grid.ColumnSpan="2" Content="Занесение" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Click="Button_Click_8"/>
+    </Grid>
+</Window>

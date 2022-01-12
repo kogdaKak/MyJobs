@@ -1,0 +1,42 @@
+﻿<Window x:Class="MptHelperDisShed.Authorization"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:design="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MptHelperDisShed"
+        mc:Ignorable="d"
+        Title="Авторизация" Height="450" Width="800" Loaded="Window_Loaded">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <TextBox Grid.Row="0" Grid.Column="0" Grid.RowSpan="1" Grid.ColumnSpan="1" Name="tbLogin" Width="180" Height="45">Введите логин</TextBox>
+        <TextBox Grid.Row="0" Grid.Column="2" Grid.RowSpan="1" Grid.ColumnSpan="2" Name="tb_kod" Width="180" Height="45" IsEnabled="False">Введите подтверждающий код</TextBox>
+        <Button Grid.Row="1" Grid.Column="2" Grid.RowSpan="1" Grid.ColumnSpan="2" Content="Подтвердить" Name="btOkey" Width="150" Click="btOkey_Click"></Button>
+
+
+        <Label Grid.Row="1" Grid.Column="0" Grid.RowSpan="2" Grid.ColumnSpan="1" Content="Введите пароль" Height="50" Width="100"/>
+        <PasswordBox Grid.Row="2" Grid.Column="0" Grid.RowSpan="1" Grid.ColumnSpan="1" Name="psBox" Width="180" Height="45"></PasswordBox>
+        <Button Grid.Row="3" Grid.Column="0" Grid.RowSpan="1" Grid.ColumnSpan="1" Content="Войти" Name="btEnter" Width="100" Click="btEnter_Click"></Button>
+        <Button Grid.Row="3" Grid.Column="2" Grid.RowSpan="1" Grid.ColumnSpan="2" Content="Зарегестрироваться" Name="btReg" Width="170" Click="btReg_Click"></Button>
+        <TextBlock VerticalAlignment="Bottom" HorizontalAlignment="Left" Grid.Row="4" Grid.Column="0" Grid.RowSpan="1" Grid.ColumnSpan="4" >
+            <Hyperlink Click="Hyperlink_Click" Foreground="Black">Забыли пароль ?</Hyperlink>
+        </TextBlock>
+    </Grid>
+</Window>

@@ -1,0 +1,20 @@
+﻿<Window x:Class="MptHelperDisShed.Statistics"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:lvc="lvc-namespace:LiveCharts.Wpf;assembly=LiveCharts.Wpf"
+        xmlns:local="clr-namespace:MptHelperDisShed"
+        xmlns:lvc1="clr-namespace:LiveCharts.Wpf;assembly=LiveCharts.Wpf"
+        mc:Ignorable="d"
+        Title="Statistics" Height="450" Width="800" Background="#C1D5e0" WindowState="Maximized">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <lvc1:PieChart Height="250" Width="250" Grid.Row="0" Grid.RowSpan="2" Series="{Binding SeriesCollection}"></lvc1:PieChart>
+        <Button Width="150" Margin="11,381,631,6" Content="Вернуться" Grid.Row="0" Grid.RowSpan="2" Click="Button_Click" Background="#FF8BAFC2"></Button>
+    </Grid>
+</Window>

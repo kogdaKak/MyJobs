@@ -1,0 +1,69 @@
+﻿<Window Name="Window" x:Class="MptHelperDisShed.Auditorniy"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:design="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MptHelperDisShed"
+        mc:Ignorable="d"
+        Title="Raspisaniy" WindowState="Maximized" Loaded="Window_Loaded" Background="#90A4AE" Closed="Window_Closed">
+    <Grid x:Name="GridMenu" Background="#90A4AE">
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        
+        <Button  Grid.Row="9" Grid.Column="11" Grid.RowSpan="1" Grid.ColumnSpan="2" Content="Выгрузить"  VerticalAlignment="Center" HorizontalAlignment="Center" Width="120" Click="Button_ex"
+                 design:ButtonProgressAssist.IndicatorBackground="Blue" design:ButtonAssist.CornerRadius="10" Background="#FF8BAFC2" Foreground="Black" FontStyle="Normal" ></Button>
+        <DataGrid IsReadOnly="True" Grid.Row="0" Grid.Column="0" Grid.RowSpan="8" Grid.ColumnSpan="14" Name="dgFillf" HorizontalAlignment="Left" VerticalAlignment="Top" AutoGeneratingColumn="dgFillf_AutoGeneratingColumn">
+            <DataGrid.Columns>
+                <DataGridHyperlinkColumn Header="Группы" IsReadOnly="True" Binding="{Binding Path='Name_Group'}">
+                    <DataGridHyperlinkColumn.ElementStyle>
+                        <Style>
+                            <EventSetter Event="Hyperlink.Click" Handler="HyperLink_Group"></EventSetter>
+                        </Style>
+                    </DataGridHyperlinkColumn.ElementStyle>
+                </DataGridHyperlinkColumn>
+                <DataGridHyperlinkColumn Header="Специальность" IsReadOnly="True" Binding="{Binding Path='Number_Specialty'}">
+                    <DataGridHyperlinkColumn.ElementStyle>
+                        <Style>
+                            <EventSetter Event="Hyperlink.Click" Handler="HyperLink_Speciality"></EventSetter>
+                        </Style>
+                    </DataGridHyperlinkColumn.ElementStyle>
+                </DataGridHyperlinkColumn>
+               
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button  Grid.Row="9" Grid.Column="8" Grid.RowSpan="3" Grid.ColumnSpan="2" design:ButtonProgressAssist.IndicatorBackground="Blue" design:ButtonAssist.CornerRadius="10" Content="Найти" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Click="Serch_Click" Name="Serch"/>
+        
+        <Button Name="btNaiti" Content="Обновить" Grid.Row="9" Grid.Column="4" Grid.RowSpan="3" Grid.ColumnSpan="2" Click="btNaiti_Click"></Button>
+        <ComboBox   Grid.Row="9" Grid.Column="1" Grid.RowSpan="1" Grid.ColumnSpan="3" x:Name="cbGroup" Width="200" SelectionChanged="cbGroup_SelectionChanged" Background="#607D8B" ></ComboBox>
+        <CheckBox  Grid.Row="10" Grid.Column="11" Grid.RowSpan="1" Grid.ColumnSpan="2" Content="Фильтрация" Name="chBox" Background="#607D8B"></CheckBox>
+    </Grid>
+</Window >
+

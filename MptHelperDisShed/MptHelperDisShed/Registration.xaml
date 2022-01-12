@@ -1,0 +1,44 @@
+﻿<Window x:Class="MptHelperDisShed.Registration"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:design="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MptHelperDisShed"
+        mc:Ignorable="d"
+        Title="Registration" Height="450" Width="800" Background="#C1D5e0" WindowState="Maximized">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Label Content="Логин" Grid.Row="0" Grid.Column="0" Grid.RowSpan="2" Grid.ColumnSpan="1"></Label>
+        <TextBox Grid.Row="0" Grid.Column="0" Grid.RowSpan="2" Grid.ColumnSpan="1" Name="tbLogin" Width="180" Height="45" >Papa123_</TextBox>
+
+        <Label Grid.Row="3" Grid.Column="0" Grid.RowSpan="1" Grid.ColumnSpan="2" Content="Пароль" Height="50"/>
+        <PasswordBox Grid.Row="4" Grid.Column="0" Grid.RowSpan="1" Grid.ColumnSpan="1" Name="psBox" Width="180" Height="45"></PasswordBox>
+
+        <Label Grid.Row="5" Grid.Column="0" Grid.RowSpan="1" Grid.ColumnSpan="2" Content="Телефон" Height="50" />
+        <TextBox Grid.Row="6" Grid.Column="0" Grid.RowSpan="1" Grid.ColumnSpan="1" Name="tbPhone" Width="180" Height="45">89999999999</TextBox>
+
+        <Label Grid.Row="0" Grid.Column="3" Grid.RowSpan="1" Grid.ColumnSpan="2" Content="Электронная почта" Height="50" Width="150"></Label>
+        <TextBox Grid.Row="1" Grid.Column="3" Grid.RowSpan="1" Grid.ColumnSpan="2" Name="tbEmail" Height="40">Stydent@mpt.ru</TextBox>
+
+        <Button Grid.Row="2" Grid.Column="3" Grid.RowSpan="1" Grid.ColumnSpan="2" Content="Зарегестрироваться" Name="btEnter" Width="250" Click="btEnter_Click"></Button>
+        <Button Grid.Row="4" Grid.Column="3" Grid.RowSpan="1" Grid.ColumnSpan="2" Content="Вернуться на форму авторизации" Name="Email" Width="280" Click="Email_Click" ></Button>
+    </Grid>
+</Window>
